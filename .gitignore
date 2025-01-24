@@ -2,6 +2,12 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# temp
+*.tmp
+*.log
+
+# sistem
+.DS_Store
 
 # C extensions
 *.so
